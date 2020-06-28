@@ -4,6 +4,7 @@
     Institution: The University of Texas at Austin
     
 AISTATS Link: http://proceedings.mlr.press/v108/shah20a.html
+
 Arxiv Link: https://arxiv.org/abs/2001.03316 
 
 #### In this repository, we provide the code for the experiments described in Section 6 of the paper for neural networks.
